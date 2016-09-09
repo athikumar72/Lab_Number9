@@ -1,0 +1,6 @@
+C:\EXPIT\DEMOS\Lab_Number9\CircleApp\CircleApp\bin\Debug\CircleApp.exe.config
+C:\EXPIT\DEMOS\Lab_Number9\CircleApp\CircleApp\obj\Debug\CircleApp.csprojResolveAssemblyReference.cache
+C:\EXPIT\DEMOS\Lab_Number9\CircleApp\CircleApp\bin\Debug\CircleApp.exe
+C:\EXPIT\DEMOS\Lab_Number9\CircleApp\CircleApp\bin\Debug\CircleApp.pdb
+C:\EXPIT\DEMOS\Lab_Number9\CircleApp\CircleApp\obj\Debug\CircleApp.exe
+C:\EXPIT\DEMOS\Lab_Number9\CircleApp\CircleApp\obj\Debug\CircleApp.pdb
